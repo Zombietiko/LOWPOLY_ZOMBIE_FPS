@@ -1134,3 +1134,398 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.19-21.48.37:339][287]LogViewport: Scene viewport resized to 841x378, mode Windowed.
 [2024.02.19-21.48.37:387][287]LogViewport: Scene viewport resized to 841x385, mode Windowed.
 [2024.02.19-21.48.37:439][287]LogViewport: Scene viewport resized to 841x386, mode Windowed.
+[2024.02.19-21.49.34:306][319]LogViewport: Scene viewport resized to 1264x238, mode Windowed.
+[2024.02.19-21.49.39:310][335]LogViewport: Scene viewport resized to 1264x239, mode Windowed.
+[2024.02.19-21.49.39:390][335]LogViewport: Scene viewport resized to 1264x254, mode Windowed.
+[2024.02.19-21.49.39:458][335]LogViewport: Scene viewport resized to 1264x267, mode Windowed.
+[2024.02.19-21.49.39:525][335]LogViewport: Scene viewport resized to 1264x310, mode Windowed.
+[2024.02.19-21.49.39:590][335]LogViewport: Scene viewport resized to 1264x347, mode Windowed.
+[2024.02.19-21.49.39:641][335]LogViewport: Scene viewport resized to 1264x403, mode Windowed.
+[2024.02.19-21.49.39:708][335]LogViewport: Scene viewport resized to 1264x462, mode Windowed.
+[2024.02.19-21.49.39:774][335]LogViewport: Scene viewport resized to 1264x499, mode Windowed.
+[2024.02.19-21.49.40:008][335]LogViewport: Scene viewport resized to 1264x500, mode Windowed.
+[2024.02.19-21.49.40:074][335]LogViewport: Scene viewport resized to 1264x501, mode Windowed.
+[2024.02.19-21.49.40:140][335]LogViewport: Scene viewport resized to 1264x516, mode Windowed.
+[2024.02.19-21.49.40:223][335]LogViewport: Scene viewport resized to 1264x542, mode Windowed.
+[2024.02.19-21.49.40:290][335]LogViewport: Scene viewport resized to 1264x576, mode Windowed.
+[2024.02.19-21.49.40:540][335]LogViewport: Scene viewport resized to 1264x574, mode Windowed.
+[2024.02.19-21.50.15:000][  7]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.19-21.50.15:003][  7]LogSlate: Window 'Editor Preferences' being destroyed
+[2024.02.19-21.50.21:467][630]LogSlate: External Image Picker: DecompressImage failed
+[2024.02.19-21.50.21:591][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.50.30:016][389]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.02.19-21.50.31:724][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: Failed to load '/Game/InfimaGames/AnimatedLowPolyWeapons/Core/ABP_ALPW_FP_PCH': Can't find file.
+[2024.02.19-21.50.31:724][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/AnimatedLowPolyWeapons/Core/ABP_ALPW_FP_PCH'
+[2024.02.19-21.50.31:725][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\AR_BP.uasset: Failed to load '/Game/InfimaGames/AnimatedLowPolyWeapons/Art/Characters/Animations/ARs/A_FP_PCH_AR_Fire': Can't find file.
+[2024.02.19-21.50.31:725][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\AR_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/AnimatedLowPolyWeapons/Art/Characters/Animations/ARs/A_FP_PCH_AR_Fire'
+[2024.02.19-21.50.31:725][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Usable/Animation/ABP_LPSP_WEP_AR_03': Can't find file.
+[2024.02.19-21.50.31:725][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Usable/Animation/ABP_LPSP_WEP_AR_03'
+[2024.02.19-21.50.31:726][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/AnimatedLowPolyWeapons/Art/Weapons/ARs/SK_AR_03': Can't find file.
+[2024.02.19-21.50.31:726][570]LoadErrors: Failed to load /Game/InfimaGames/AnimatedLowPolyWeapons/Art/Weapons/ARs/SK_AR_03.SK_AR_03 Referenced by Gunmesh_GEN_VARIABLE
+[2024.02.19-21.50.31:726][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/AnimatedLowPolyWeapons/Art/Weapons/ARs/SK_AR_03'
+[2024.02.19-21.50.31:728][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Art/Characters/Default/SK_FP_CH_Default': Can't find file.
+[2024.02.19-21.50.31:728][570]LoadErrors: Failed to load /Game/InfimaGames/LowPolyShooterPack/Art/Characters/Default/SK_FP_CH_Default.SK_FP_CH_Default Referenced by Default__FPS_Character_BP_C
+[2024.02.19-21.50.31:728][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Art/Characters/Default/SK_FP_CH_Default'
+[2024.02.19-21.50.31:728][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/AnimatedLowPolyWeapons/Art/Weapons/_Common/Skins/Materials/Skulls/MI_WEP_Skulls_013': Can't find file.
+[2024.02.19-21.50.31:728][570]LoadErrors: Failed to load /Game/InfimaGames/AnimatedLowPolyWeapons/Art/Weapons/_Common/Skins/Materials/Skulls/MI_WEP_Skulls_013.MI_WEP_Skulls_013 Referenced by Default__FPS_Character_BP_C
+[2024.02.19-21.50.31:728][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/AnimatedLowPolyWeapons/Art/Weapons/_Common/Skins/Materials/Skulls/MI_WEP_Skulls_013'
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Jump': Can't find file.
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Jump'
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Look': Can't find file.
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Look'
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Movement': Can't find file.
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Movement'
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Shoot': Can't find file.
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Data/Input/IA_LPSP_Shoot'
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\Weapons\BASE_WEAPON_BP.uasset: Failed to load '/Game/InfimaGames/LowPolyShooterPack/Data/Input/IMC_LPSP_Default': Can't find file.
+[2024.02.19-21.50.31:729][570]LogLinker: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: VerifyImport: Failed to load package for import object 'Package /Game/InfimaGames/LowPolyShooterPack/Data/Input/IMC_LPSP_Default'
+[2024.02.19-21.50.31:743][570]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.50.31:743][570]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.50.31:743][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] No structure in SubCategoryObject in pin  Action Value
+[2024.02.19-21.50.31:744][570]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.50.31:744][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] No structure in SubCategoryObject in pin  Action Value
+[2024.02.19-21.50.31:744][570]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.50.31:744][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value X  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value Y  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value X  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value Y  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Could not find a function named "None" in 'FPS_Character_BP'.
+Make sure 'FPS_Character_BP' has been compiled for  EnhancedInputAction None
+[2024.02.19-21.50.31:745][570]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Could not find a function named "None" in 'FPS_Character_BP'.
+Make sure 'FPS_Character_BP' has been compiled for  EnhancedInputAction None
+[2024.02.19-21.50.31:745][570]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Node  EnhancedInputAction None . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2024.02.19-21.50.31:745][570]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Node  EnhancedInputAction None . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2024.02.19-21.50.31:854][570]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.02.19-21.50.31:880][570]LogSkeletalMesh: Display: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\PolygonCityZombies\Meshes\Characters\SK_Zombie_BioHazardSuit_Male_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.02.19-21.50.31:891][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: ================================================
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: RAM used: 22.30 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Jobs assigned 8, completed 2 (25.00%)
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.01 s
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Job execution time: average 0.35 s, max 0.35 s
+[2024.02.19-21.50.32:397][594]LogShaderCompilers: Display: Job life time (pending + execution): average 0.35 s, max 0.36
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Shader code size: average 18.084 KiB, min 4.359 KiB, max 31.809 KiB
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.36 s
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Average processing rate: 5.63 jobs/sec
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Total thread time: 0.267 s
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Total thread preprocess time: 0.046 s
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Percentage time preprocessing: 17.11%
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Effective parallelization: 0.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.13 sec, max 0.13 sec, min 0.13 sec)
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display:                                                  FHitProxyPS - 51.19% of total time (compiled    1 times, average 0.14 sec, max 0.14 sec, min 0.14 sec)
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 48.81% of total time (compiled    1 times, average 0.13 sec, max 0.13 sec, min 0.13 sec)
+[2024.02.19-21.50.32:398][594]LogShaderCompilers: Display: ================================================
+[2024.02.19-21.50.36:162][962]LogDerivedDataCache: C:/Users/matth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:55.241 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 60264 files in 59856 folders with total size 1737 MiB.
+[2024.02.19-21.50.37:600][ 82]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.19-21.50.37:604][ 82]LogSlate: Window 'Project Settings' being destroyed
+[2024.02.19-21.50.39:002][243]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.19-21.50.39:008][243]LogContentBundle: [Untitled_1(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.02.19-21.50.39:008][243]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' started...
+[2024.02.19-21.50.39:575][243]LogWorldPartition: Display: GenerateStreaming for 'OpenWorld.Engine' took 567 ms
+[2024.02.19-21.50.39:576][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.19-21.50.39:576][243]BlueprintLog: Warning: Blueprint failed to compile:  FPS_Character_BP
+[2024.02.19-21.50.46:618][243]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.02.19-21.50.46:622][243]PIE: New page: PIE session: Untitled_1 (19 Feb 2024, 21:50:46)
+[2024.02.19-21.50.46:626][243]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.02.19-21.50.46:626][243]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.02.19-21.50.46:626][243]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2024.02.19-21.50.46:682][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055243s)
+[2024.02.19-21.50.46:682][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.055280s)
+[2024.02.19-21.50.46:686][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.19-21.50.46:687][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.50.46:688][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-21.50.46:688][243]LogAIModule: Creating AISystem for world Untitled_1
+[2024.02.19-21.50.46:688][243]LogWorldPartition: ULevel::OnLevelLoaded(Untitled_1)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.02.19-21.50.46:688][243]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.02.19-21.50.46:688][243]LogWorldPartition: UWorldPartition::Initialize : World = Untitled_1, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.02.19-21.50.46:688][243]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.02.19-21.50.46:691][243]LogContentBundle: [Untitled_1(Standalone)] Creating new contrainer.
+[2024.02.19-21.50.46:863][243]LogWorldPartition: Display: WorldPartition initialize took 175 ms (total: 409 ms)
+[2024.02.19-21.50.46:863][243]LogPlayLevel: PIE: World Init took: (0.176477s)
+[2024.02.19-21.50.46:863][243]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.19-21.50.46:863][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.19-21.50.46:863][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.19-21.50.46:864][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.19-21.50.46:864][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.19-21.50.46:864][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.19-21.50.46:866][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.19-21.50.46:888][243]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Razer Barracuda X)
+[2024.02.19-21.50.46:888][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.19-21.50.46:888][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.19-21.50.46:888][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.19-21.50.46:889][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.02.19-21.50.46:889][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.02.19-21.50.46:891][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.02.19-21.50.46:891][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.02.19-21.50.46:891][243]LogInit: FAudioDevice initialized with ID 2.
+[2024.02.19-21.50.46:891][243]LogAudio: Display: Audio Device (ID: 2) registered with world 'Untitled_1'.
+[2024.02.19-21.50.46:891][243]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.19-21.50.46:894][243]LogLoad: Game class is 'GameModeBase'
+[2024.02.19-21.50.46:894][243]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2024.02.19-21.50.46
+[2024.02.19-21.50.46:894][243]LogWorld: Bringing up level for play took: 0.000652
+[2024.02.19-21.50.46:896][243]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2024.02.19-21.50.46:900][243]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.02.19-21.50.46:900][243]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.02.19-21.50.46:985][243]LogStreaming: Display: FlushAsyncLoading(): 60 QueuedPackages, 0 AsyncPackages
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/72/P9KZ1FM4U97NJSI8QUOA7D.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/72/P9KZ1FM4U97NJSI8QUOA7D.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/FE/0EX8YTKENWM2LPVQE1CX9B.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/0/ZS/QDCLRJH195LBQL6SG6MX08.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/69/OOMIOONZJ5VQYEI0DX83K4.StaticMesh_HLOD0_Instancing_4 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/69/OOMIOONZJ5VQYEI0DX83K4.StaticMesh_HLOD0_Instancing_5 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/69/OOMIOONZJ5VQYEI0DX83K4.StaticMesh_HLOD0_Instancing_6 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/69/OOMIOONZJ5VQYEI0DX83K4.StaticMesh_HLOD0_Instancing_7 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/GV/H2Z2SRDKP2UEP02UY2WR43.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/1/GV/H2Z2SRDKP2UEP02UY2WR43.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/4O/M6ZFUL20RQLTVOTJPDJUVM.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/CZ/ZFQ3H9N7J6HG98KZTMXHJU.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/FF/FIQJAJ1QQXKZL4LB5LGDII.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/GC/4JWLDTDNL8CZ6YE74OYLA1.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/GC/4JWLDTDNL8CZ6YE74OYLA1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/GZ/5RXZHXPL2MTZSNJ29QL670.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/IC/POXDQIIS3QKXFKVLJZ30BW.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/IC/POXDQIIS3QKXFKVLJZ30BW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/VN/GNQYF0DU6WM6BW4ZPLNNU3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/2/VN/GNQYF0DU6WM6BW4ZPLNNU3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/45/UADOSGI5V60783LWBOCURH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/6Z/IRSE5EDOROHQWRI5PJLZUS.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/BS/AESQY0IKN8ORBORQS8ZTPW.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/D7/A6JZ5BHMJX8ANM3V6H0SP6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/Q8/U15CIOFLH4FN97OIJYGUF0.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/VS/PNQQL5121CWWCLEWFYOQVR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/3/XX/RT7XOEFGJKU063ZXYU08PI.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/BR/UTW89AD6D1KGZYE3RMF3LR.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/J0/F0J9D4FOG1IQ7OFGP5NCN1.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/4/J0/F0J9D4FOG1IQ7OFGP5NCN1.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/23/0IBZI4MKG13OOTSZ1ZN2JI.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/23/0IBZI4MKG13OOTSZ1ZN2JI.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/GM/HMG83JAIRHTNODUZIW85P3.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/GM/HMG83JAIRHTNODUZIW85P3.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/5/R3/I2Z02EBENSJ39ESVCQHBWH.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/6/9S/NHQHZ9W5SMORJBKCGH1I6Q.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/9A/RM5VGW9SWL7XFY8V7V35Y5.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/7/XK/NNQHTKCQMTGL488GWT03IL.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/C5/QZAOJ1BX90TVHU50TDMXWE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/PT/1LV3KKA8Y343SU63CJA3TN.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/UZ/3WZYLEW6XVOAJV62G4CF1F.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/WF/ZD9SIAGDIBFKHQPVRWFLI7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/YI/FUI9M91TM68656D5H2OP7A.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/8/ZU/UWRG29GUPJZKFZAYG1TQUT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/0K/SKSFWGWT64ZTBQ574PZ1ZF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/6H/LXUWRP7PKVYPB32OL0QJHF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/OM/XCRXR7AX9N02DWSO3AJ7T2.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/XU/Q26DVT09FX9KRM8LZ6C3NV.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/9/XU/Q26DVT09FX9KRM8LZ6C3NV.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/KD/25ND2UZMJO2BUT4062MHM8.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/KD/25ND2UZMJO2BUT4062MHM8.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/KE/351MYYNV422OLA6PVLO6QW.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/KE/351MYYNV422OLA6PVLO6QW.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/PF/7UF6Y8RQRYQKPKQOY83AE7.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/A/T5/AEE04GGB4Y76DS1MLT7XEF.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/Y9/55J55ENTD1508PJ3HQKWYC.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/YQ/3SACEP11KP3LBBZUIC1NN0.StaticMesh_HLOD0_Instancing_2 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/YQ/3SACEP11KP3LBBZUIC1NN0.StaticMesh_HLOD0_Instancing_3 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/B/YW/4PDM70LMFYN738TP6ZC2KT.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/5Q/HI57PNFOMT4R3DFEUAUAAZ.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/MC/T90MSNLC1N3FYSDD8DJNV6.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/C/TA/XTMB7SD5DPQMBDIFK6V7KE.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/D/M8/GQIMTIO02VU16EAMBW9L76.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:243][243]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Temp/Untitled_1_InstanceOf_/Engine/__ExternalActors__/Maps/Templates/OpenWorld/E/EU/63CUG82HPJ7AU9XI6H86US.StaticMesh_HLOD0_Instancing_1 being ready before playing
+[2024.02.19-21.50.47:331][243]PIE: Server logged in
+[2024.02.19-21.50.47:332][243]PIE: Play in editor total start time 8.325 seconds.
+[2024.02.19-21.50.49:943][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-21.50.49:943][506]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2024.02.19-21.50.49:969][506]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-21.50.49:969][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.50.49:969][506]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.02.19-21.50.49:971][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.19-21.50.49:974][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.50.49:979][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-21.50.49:981][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.02.19-21.50.49:981][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.19-21.50.49:983][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.02.19-21.50.50:001][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.19-21.50.50:026][507]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.02.19-21.50.55:945][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.02.19-21.50.55:947][146]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LowPolyFPS/Maps/Main_Map.Main_Map
+[2024.02.19-21.50.55:947][146]Cmd: MAP LOAD FILE="C:/Users/matth/OneDrive/Documents/Unreal Projects/Zombie_Game/LOWPOLY_ZOMBIE_FPS/Content/LowPolyFPS/Maps/Main_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.02.19-21.50.55:947][146]LightingResults: New page: Lighting Build
+[2024.02.19-21.50.55:947][146]LoadErrors: New page: Loading map: Main_Map.umap
+[2024.02.19-21.50.55:972][146]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-21.50.55:973][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.50.55:974][146]LogContentBundle: [Untitled_1(Standalone)] Deleting container.
+[2024.02.19-21.50.55:975][146]MapCheck: New page: Map Check
+[2024.02.19-21.50.55:975][146]LightingResults: New page: Lighting Build
+[2024.02.19-21.50.55:977][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.19-21.50.55:990][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.02.19-21.50.55:992][146]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-21.50.55:994][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.50.56:000][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.19-21.50.56:003][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.19-21.50.56:033][146]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Map'.
+[2024.02.19-21.50.56:033][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.50.56:033][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-21.50.56:033][146]LogAIModule: Creating AISystem for world Main_Map
+[2024.02.19-21.50.56:397][146]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.02.19-21.50.56:406][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.19-21.50.56:409][146]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.02.19-21.50.56:409][146]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2024.02.19-21.50.56:565][148]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.02.19-21.51.00:515][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.19-21.51.00:520][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.19-21.51.00:520][543]PIE: New page: PIE session: Main_Map (19 Feb 2024, 21:51:00)
+[2024.02.19-21.51.00:520][543]LogPlayLevel: Creating play world package: /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map
+[2024.02.19-21.51.00:549][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028726s)
+[2024.02.19-21.51.00:549][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowPolyFPS/Maps/Main_Map.Main_Map to /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map.Main_Map (0.028757s)
+[2024.02.19-21.51.00:553][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.02.19-21.51.00:554][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.51.00:554][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-21.51.00:554][543]LogAIModule: Creating AISystem for world Main_Map
+[2024.02.19-21.51.00:555][543]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2024.02.19-21.51.00:555][543]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.19-21.51.00:555][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.19-21.51.00:555][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.19-21.51.00:555][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.19-21.51.00:555][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.19-21.51.00:555][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.19-21.51.00:557][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.19-21.51.00:575][543]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Razer Barracuda X)
+[2024.02.19-21.51.00:575][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.19-21.51.00:575][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.19-21.51.00:575][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.19-21.51.00:576][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.02.19-21.51.00:576][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.02.19-21.51.00:577][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.02.19-21.51.00:577][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.02.19-21.51.00:577][543]LogInit: FAudioDevice initialized with ID 3.
+[2024.02.19-21.51.00:577][543]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Map'.
+[2024.02.19-21.51.00:577][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.19-21.51.00:580][543]LogLoad: Game class is 'FPS_Gamemode_C'
+[2024.02.19-21.51.00:599][543]LogWorld: Bringing World /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2024.02.19-21.51.00
+[2024.02.19-21.51.00:599][543]LogWorld: Bringing up level for play took: 0.019392
+[2024.02.19-21.51.00:601][543]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.02.19-21.51.00:602][543]PIE: Server logged in
+[2024.02.19-21.51.00:603][543]PIE: Play in editor total start time 0.083 seconds.
+[2024.02.19-21.51.08:812][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-21.51.08:812][498]LogWorld: BeginTearingDown for /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map
+[2024.02.19-21.51.08:812][498]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-21.51.08:814][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.51.08:817][498]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.19-21.51.08:820][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.51.08:824][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-21.51.08:826][498]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.02.19-21.51.08:826][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.19-21.51.08:828][498]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.02.19-21.51.08:835][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.19-21.51.08:901][500]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.02.19-21.51.11:799][837]Cmd: SELECT NONE
+[2024.02.19-21.55.34:322][417]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.19-21.55.34:327][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.19-21.55.34:327][417]PIE: New page: PIE session: Main_Map (19 Feb 2024, 21:55:34)
+[2024.02.19-21.55.34:352][417]LogPlayLevel: Creating play world package: /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map
+[2024.02.19-21.55.34:381][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028357s)
+[2024.02.19-21.55.34:381][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LowPolyFPS/Maps/Main_Map.Main_Map to /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map.Main_Map (0.028403s)
+[2024.02.19-21.55.34:384][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.19-21.55.34:385][417]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.55.34:386][417]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-21.55.34:386][417]LogAIModule: Creating AISystem for world Main_Map
+[2024.02.19-21.55.34:386][417]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2024.02.19-21.55.34:386][417]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.19-21.55.34:386][417]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.19-21.55.34:386][417]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.19-21.55.34:387][417]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.19-21.55.34:387][417]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.19-21.55.34:387][417]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.19-21.55.34:389][417]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.19-21.55.34:409][417]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Razer Barracuda X)
+[2024.02.19-21.55.34:409][417]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.19-21.55.34:409][417]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.19-21.55.34:409][417]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.19-21.55.34:409][417]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.02.19-21.55.34:409][417]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.02.19-21.55.34:410][417]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.02.19-21.55.34:410][417]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.02.19-21.55.34:410][417]LogInit: FAudioDevice initialized with ID 4.
+[2024.02.19-21.55.34:410][417]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Map'.
+[2024.02.19-21.55.34:410][417]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.19-21.55.34:414][417]LogLoad: Game class is 'FPS_Gamemode_C'
+[2024.02.19-21.55.34:433][417]LogWorld: Bringing World /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map.Main_Map up for play (max tick rate 0) at 2024.02.19-21.55.34
+[2024.02.19-21.55.34:434][417]LogWorld: Bringing up level for play took: 0.019789
+[2024.02.19-21.55.34:436][417]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.02.19-21.55.34:437][417]PIE: Server logged in
+[2024.02.19-21.55.34:438][417]PIE: Play in editor total start time 0.11 seconds.
+[2024.02.19-21.55.41:513][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-21.55.41:513][238]LogWorld: BeginTearingDown for /Game/LowPolyFPS/Maps/UEDPIE_0_Main_Map
+[2024.02.19-21.55.41:513][238]LogWorld: UWorld::CleanupWorld for Main_Map, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-21.55.41:515][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.55.41:518][238]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.19-21.55.41:520][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.19-21.55.41:523][238]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.19-21.55.41:526][238]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.02.19-21.55.41:526][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.19-21.55.41:528][238]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.02.19-21.55.41:536][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.19-21.55.41:597][240]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.02.19-21.55.45:194][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Bluprints/FPS_Character_BP.FPS_Character_BP
+[2024.02.19-21.55.45:194][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.19-21.55.45:195][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.19-21.55.45:209][619]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.02.19-21.55.45:964][619]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.02.19-21.55.46:125][620]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.02.19-21.55.47:385][716]BlueprintLog: New page: Compile FPS_Character_BP
+[2024.02.19-21.55.47:388][716]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.55.47:388][716]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.55.47:388][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] No structure in SubCategoryObject in pin  Action Value
+[2024.02.19-21.55.47:389][716]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.55.47:389][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] No structure in SubCategoryObject in pin  Action Value
+[2024.02.19-21.55.47:389][716]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputAction None  does not have a valid Input Action asset!!
+[2024.02.19-21.55.47:389][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value X  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value Y  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value X  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] In use pin  Action Value Y  no longer exists on node  EnhancedInputAction None . Please refresh node or break links to remove pin.
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] EnhancedInputActionEvent references invalid 'null' action for  EnhancedInputAction None
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Could not find a function named "None" in 'FPS_Character_BP'.
+Make sure 'FPS_Character_BP' has been compiled for  EnhancedInputAction None
+[2024.02.19-21.55.47:390][716]LogBlueprint: Error: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Could not find a function named "None" in 'FPS_Character_BP'.
+Make sure 'FPS_Character_BP' has been compiled for  EnhancedInputAction None
+[2024.02.19-21.55.47:390][716]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Node  EnhancedInputAction None . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2024.02.19-21.55.47:390][716]LogBlueprint: Warning: [AssetLog] C:\Users\matth\OneDrive\Documents\Unreal Projects\Zombie_Game\LOWPOLY_ZOMBIE_FPS\Content\Bluprints\FPS_Character_BP.uasset: [Compiler] Node  EnhancedInputAction None . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Call Function.
+[2024.02.19-21.55.47:473][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.19-21.57.26:505][248]LogSlate: Window 'FPS_Character_BP' being destroyed
+[2024.02.19-21.57.26:508][248]LogSlate: Window 'FPS_Character_BP' being destroyed
+[2024.02.19-21.57.26:512][248]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.19-21.57.26:512][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
