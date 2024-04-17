@@ -1,6 +1,6 @@
 # LOWPOLY_ZOMBIE_FPS
  
-We awere asked to crate a single-player indie game prototype that shows consideration of the seven themes
+We were asked to crate a single-player indie game prototype that shows consideration of the seven themes
 highlighted in the second semester of our course these included the following: 
 
 Game Design 
